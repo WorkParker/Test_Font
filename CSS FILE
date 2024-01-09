@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: 'Berlingske Serif', sans-serif;
+  font-family: 'Berlingske Serif';
   font-weight: 500; /* Apply the same font weight to the body text */
 }
 
